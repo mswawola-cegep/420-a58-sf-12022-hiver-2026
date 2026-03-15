@@ -6,6 +6,7 @@ numpy
 pandas
 Pillow
 scikit-learn
+scikit-image
 scipy
 seaborn
 tqdm
